@@ -1,7 +1,7 @@
 {
-  "mainAssemblyName": "VacationPlaner.Client",
+  "mainAssemblyName": "EmsDemo.Client",
   "resources": {
-    "hash": "sha256-cMxpfITctgvDXa5P/KEBJrYdlJUS5b29wJrI5q06ErA=",
+    "hash": "sha256-skPHLgYj6iXzR4uXSZBY7GGD37oTjnHG0NQVpi03mbI=",
     "fingerprinting": {
       "Blazor.Lottie.Player.kz15cfjvng.wasm": "Blazor.Lottie.Player.wasm",
       "Microsoft.AspNetCore.Components.fs5ln9ljxa.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -46,7 +46,7 @@
       "System.Threading.q2tgddxke7.wasm": "System.Threading.wasm",
       "System.t4d4s3f398.wasm": "System.wasm",
       "System.Private.CoreLib.hr2oohdfez.wasm": "System.Private.CoreLib.wasm",
-      "VacationPlaner.Client.g15cxmuq6j.wasm": "VacationPlaner.Client.wasm",
+      "EmsDemo.Client.9ws7vpef1b.wasm": "EmsDemo.Client.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.noby4tlk4d.js": "dotnet.native.js",
       "dotnet.native.qe75a9vfqn.wasm": "dotnet.native.wasm",
@@ -115,7 +115,7 @@
       "System.Text.RegularExpressions.xj5knbwhob.wasm": "sha256-4+MWffQyDZCJ8hwk0jpBpQiNPr/kYEsFLIXpt03tmJI=",
       "System.Threading.q2tgddxke7.wasm": "sha256-zncUNmLvW8+ubA+sqWx5FiQfdH+7iXKdHOZT34w96r0=",
       "System.t4d4s3f398.wasm": "sha256-fVP2BxRRKpBA0PmBbKxmO45bXDrAXVn1GthlDclLbeU=",
-      "VacationPlaner.Client.g15cxmuq6j.wasm": "sha256-fCKnAMNYMn+yVcC4c9jIr0XFPIUp5JNK1ZBxxE9XgQ4="
+      "EmsDemo.Client.9ws7vpef1b.wasm": "sha256-CbEfCMAusw0d+vtDaRtFPOGCZFuAfR50kGr0PAnLIzw="
     }
   },
   "cacheBootResources": true,
